@@ -1,1 +1,1 @@
-# My_tarantino
+# Моя версія командного tarantino
